@@ -1,0 +1,94 @@
+/*
+Theme Name: test
+Theme URI: 
+Author: lily
+Author URI: 
+Description: 
+Version: 1.3
+License: 
+License URI: 
+Tags: 
+Text Domain: 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+#content-wrapper{
+    position: relative;
+    top: -50px;
+}
+.aboutmision{
+    padding: 70px;
+}
+.tt-header{
+    background: #2b8fae!important;
+
+}
+.tt-header .top-line{
+    background: #333;
+}
+.tt-cours{
+    border-top: 5px solid #f8d24b;
+}
+.tt-banner-2{
+    background: #2b8fae!important;
+}
+.tt-service{
+    height: 280px!important;
+}
+.service .col-md-4{
+    margin-top: 15px!important;
+}
+.singlepad{
+    padding: 15px!important;
+}
+.singlepad p{
+    text-align: justify;
+}
+.tt-topheadingsingle{
+    position: relative;
+    top:160px;
+}
+.singlecontent{
+    position: relative;
+    top: 175px;
+    margin-bottom: 160px; 
+}
+.tt-cours-info{
+    height: 160px!important;
+}
+aboutguanyu{
+
+}
+.tt-header .main-nav > ul > li > a{
+    font-size: 16px;
+}
+.tt-header .logo{
+/*    height: 75px;*/
+}
+.simple-text.size-3{
+
+}
+.author{
+    float: right;
+    position: relative;
+    right: 40px;
+}
+
+.tt-teacher-info .simple-text {
+    -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    height: 110px;
+    overflow-y: auto;
+    margin-bottom: 25px;
+}
+.tt-teacher-info .simple-text p{
+    text-align: justify;
+}
+.tt-teacher-info .simple-text::-webkit-scrollbar {/*滚动条整体样式*/
+    width: 0px;     /*高宽分别对应横竖滚动条的尺寸*/
+    height: 4px;
+}
+
+ 
